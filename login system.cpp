@@ -86,7 +86,7 @@ void menu()
 int main()
 {
     cout << "login system\n";
-    cout << "written by _\n";
+    cout << "written by chapel1337\n";
     cout << '\n';
 
     menu();
