@@ -48,7 +48,7 @@ void checkInput(string username, string password)
             continue;
         }
     }
-    for (int o{ 0 }; o < sizeof(usernames) / sizeof(usernames[0]); o++)
+    for (int o{ 0 }; o < sizeof(passwords) / sizeof(passwords[0]); o++)
     {
         if (passwords[o] == password)
         {
